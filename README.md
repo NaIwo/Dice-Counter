@@ -3,7 +3,7 @@
 # Precondiction
 Main file "Dice_Counter.ipynb" were written in Jupyter Notebook. This task was based mainly on OpenCV package. Matplotlib, and skimage are also required. 
 
-#Main concept
+# Main concept
 Firstly, script is focused on find all dices on picture and after that, try to find blobs and count them. To make it possible, we were used some picture preprocessing. 
 More info: 
 <a href="https://github.com/NaIwo/Diece-counter/blob/master/SumUp.pdf">SumUp.pdf</a>
